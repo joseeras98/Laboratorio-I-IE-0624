@@ -1,7 +1,7 @@
 # Laboratorio-I-IE-0624
 Reporsitorio para el curso IE-0624
 
-##Guia de uso
+## Guia de uso
 1. Clonar el repositorio
 2. Moverse a la carpeta src.
 En esta carpeta encontrara el código fuente, un archivo respectivo al simulador, y un
