@@ -1,5 +1,6 @@
 # Laboratorio-I-IE-0624
-Reporsitorio para el curso IE-0624
+Reporsitorio para laboratio #1 del curso IE-0624
+Estudiante: Jose Pablo Eras Saborio
 
 ## Guia de uso
 1. Clonar el repositorio
